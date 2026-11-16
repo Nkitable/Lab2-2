@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\bin\Debug\net10.0\Lab2_Variant2.exe
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\bin\Debug\net10.0\Lab2_Variant2.deps.json
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\bin\Debug\net10.0\Lab2_Variant2.runtimeconfig.json
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\bin\Debug\net10.0\Lab2_Variant2.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\bin\Debug\net10.0\Lab2_Variant2.dll
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\bin\Debug\net10.0\Lab2_Variant2.pdb
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Variant2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Variant2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Variant2.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Variant2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Variant2.dll
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\refint\Lab2_Variant2.dll
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Variant2.pdb
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Variant2.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\ref\Lab2_Variant2.dll
+C:\Users\User\source\repos\Lab2_Variant2\Lab2_Variant2\obj\Debug\net10.0\Lab2_Var.4995FEEF.Up2Date
